@@ -1,0 +1,11 @@
+# Archivos de coniguración locales
+.env
+*.key
+
+# Directorios de build
+/build/
+/dist/
+
+# Logs y caches
+*.log 
+.cache
